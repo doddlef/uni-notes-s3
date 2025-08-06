@@ -22,7 +22,7 @@
 - **truth table**![[truth-table.png]]
 Propositional letters are **Boolean variable**
 - **Truth assignment**: a function from propositional letters to truth values
-	- $v = \{P \rightarrow 1, Q \rightarrow 0\}$, then we have:
+	- $v = \{P \mapsto 1, Q \mapsto 0\}$, then we have:
 		- $v(P) = 1$
 		- $v(Q) = v(R) = ... = v(Z) = 0$
 - $v \models \phi$  means $\phi$ is true under $v$
