@@ -86,7 +86,6 @@ $\leftrightarrow$ is also commutative and associative
 
 #### \_Other formula I found
 - $P \rightarrow (Q \rightarrow R) \equiv Q \rightarrow (P \rightarrow R)$
-- 
 
 $\bot$ is equivalent to any unsatisfiable formula
 $\top$ is equivalent to any valid formula

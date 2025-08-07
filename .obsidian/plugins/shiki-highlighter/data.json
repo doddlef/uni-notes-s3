@@ -1,5 +1,7 @@
 {
-  "disabledLanguages": [],
+  "disabledLanguages": [
+    "perl"
+  ],
   "customThemeFolder": "",
   "customLanguageFolder": "",
   "theme": "vitesse-light",
