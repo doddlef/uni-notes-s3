@@ -1,0 +1,8 @@
+- [[W1 introduction + propositional logic]]
+- [[W2 L3 Consequence and Satisfaction]]
+	- **Tautology**, **Contradiction**, **Contingent**
+	- **Valid**, **Unsatisfiable**, ...
+	- **Substitution**
+- [[W3 L4 Resolution]]
+	- **Resolution** and **Refutation**
+	- **CNF**, **NNF**

@@ -1,0 +1,8 @@
+- [[W0 Introduction]]
+- [[W1 introduction to Logic Programming]]
+- [[W2 L3 Prolog code]]
+	- **Debugger**
+	- **if-else-then**
+- [[W2 L4 Tail Recursion]]
+	- Introduce to **TRO**, and how to enable it. 
+	- **Difference pairs**
