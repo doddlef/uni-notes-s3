@@ -40,8 +40,11 @@
   "Model of Computation/W1 introduction + propositional logic.md": "LiNotebookPen",
   "Model of Computation/W2 L3 Consequence and Satisfaction.md": "LiNotebookPen",
   "Model of Computation/W3 L4 Resolution.md": "⭐",
-  "Declartive program/W2 L3 Prolog code.md": "LiNotebookPen",
-  "Declartive program/W2 L4 Tail Recursion.md": "⭐",
   "Declartive program/Index.md": "LiFolderRoot",
-  "Model of Computation/Index.md": "LiFolderRoot"
+  "Model of Computation/Index.md": "LiFolderRoot",
+  "Declartive program/W2 L2 Beyond Datalog.md": "LiNotebookPen",
+  "Declartive program/W3 L4 Prolog code.md": "LiNotebookPen",
+  "Declartive program/W3 L5 Tail Recursion.md": "⭐",
+  "Declartive program/W2 L3 Logic and Resolution.md": "LiNotebookPen",
+  "Declartive program/assets": "LiFolder"
 }
